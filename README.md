@@ -11,4 +11,4 @@ Just a Little project to practice flexbox 👍
 - HTML
 - CSS
 
-[🔗 Click here to access]("https://viniciusmassari.github.io/Linktree/")
+[🔗 Click here to access](https://viniciusmassari.github.io/Linktree/)
